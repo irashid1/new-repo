@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.heading}>Welcome to my New App!!!</Text>
-      <Text style={styles.heading}>TODO List</Text>
+      <Text style={styles.heading}>TODO List!</Text>
       <StatusBar style="auto" />
     </View>
   );
